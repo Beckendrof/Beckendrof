@@ -11,7 +11,7 @@
 *at the intersection of AI research and clinical medicine.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-abhinav--parameshwaran-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-parameshwaran/)
-[![Email](https://img.shields.io/badge/Email-parameshwaranabhinav%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:parameshwaranabhinav@gmail.com)
+[![Email](https://img.shields.io/badge/Email-abhinav.parameshwaran%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abhinav.parameshwaran@gmail.com)
 ![Location](https://img.shields.io/badge/Los_Angeles-CA-e8a525?style=flat-square)
 
 </div>
