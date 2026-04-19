@@ -80,8 +80,6 @@ M.S. Computer Science · **University of Southern California** `2024`
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Beckendrof&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=e8a525&icon_color=e8a525&text_color=888070)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Beckendrof&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=e8a525&text_color=888070)
 
 </div>
