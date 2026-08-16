@@ -87,13 +87,5 @@ M.S. Computer Science · **University of Southern California** `2024`
 ---
 
 <div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Beckendrof&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=e8a525&text_color=888070)
-
-</div>
-
----
-
-<div align="center">
 <sub>✌️ · USC · Los Angeles · open to interesting problems</sub>
 </div>
